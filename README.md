@@ -23,7 +23,7 @@ I have strong technical skills in Python, C++, Golang, and frontend technologies
 
 BSc in Computer Engineering
 Kwame Nkrumah University of Science and Technology (KNUST)
-September 2021 - August 2024 (Expected Second Class Upper Honours)
+September 2021 - August 2024 
 
 🚀 Projects & Research
 
