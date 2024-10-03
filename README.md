@@ -42,7 +42,7 @@ Self-Driving Vehicle Data Analysis
 Lost & Found Web App
 
  • Description: Built a web app to help users report and find lost items, integrating a text-to-image description matching system.
- • Tech Stack: React, Node.js, Flask, TensorFlow
+ • Tech Stack: React, Node.js, Django, Flask, TensorFlow
 
 👔 Professional Experience
 
