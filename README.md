@@ -14,9 +14,13 @@ I have strong technical skills in Python, C++, Golang, and frontend technologies
 🔧 Technologies & Tools
 
  • Programming Languages: Python, C/C++, Golang, MATLAB
+ 
  • Frontend Development: HTML, CSS, JavaScript, Bootstrap, React
+ 
  • Database Management: PostgreSQL, SQL
+ 
  • Machine Learning: TensorFlow, scikit-learn, OpenCV
+ 
  • Other Tools: Git, Docker, Firebase, Flask, React Native
 
 📚 Education
