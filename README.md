@@ -1,6 +1,6 @@
 💻 Salim Adams
 
-Software Engineer | ML/AI Enthusiast | Frontend Developer
+Software Engineer | ML/AI Enthusiast | Frontend Developer(React/React-Native)
 Location: Obuasi, Ashanti Region, Ghana
 📧 Email: salimadams49@gmail.com
 🔗 LinkedIn: linkedin.com/in/salim-adams-994278171
@@ -14,7 +14,7 @@ I have strong technical skills in Python, C++, Golang, and frontend technologies
 🔧 Technologies & Tools
 
  • Programming Languages: Python, C/C++, Golang, MATLAB
- • Frontend Development: HTML, CSS, JavaScript, Bootstrap
+ • Frontend Development: HTML, CSS, JavaScript, Bootstrap, React
  • Database Management: PostgreSQL, SQL
  • Machine Learning: TensorFlow, scikit-learn, OpenCV
  • Other Tools: Git, Docker, Firebase, Flask, React Native
