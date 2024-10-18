@@ -1,7 +1,7 @@
 💻 Salim Adams
 
 Software Engineer | ML/AI Enthusiast | Frontend Developer(React/React-Native)
-Location: Obuasi, Ashanti Region, Ghana
+Location: Greater Accra Region, Ghana
 📧 Email: salimadams49@gmail.com
 🔗 LinkedIn: linkedin.com/in/salim-adams-994278171
 
