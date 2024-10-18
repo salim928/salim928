@@ -7,7 +7,7 @@ Location: Greater Accra Region, Ghana
 
 👋 About Me
 
-I’m Salim Adams, a passionate Software Engineer and Computer Engineering graduate from Kwame Nkrumah University of Science and Technology (KNUST). I have experience working on both frontend and backend development, and I’m enthusiastic about creating AI-driven solutions to solve real-world problems. My projects range from building mental health applications to participating in research on self-driving vehicles.
+I’m Salim Adams, a passionate Software Engineer and Computer Engineering graduate from Kwame Nkrumah University of Science and Technology (KNUST). I have experience working on both full stack development and Machine Learning, and I’m enthusiastic about creating AI-driven solutions to solve real-world problems. My projects range from building mental health mobile applications to participating in research on self-driving vehicles.
 
 I have strong technical skills in Python, C++, Golang, and frontend technologies (HTML, CSS, JavaScript), and enjoy contributing to impactful projects that leverage my software engineering, data analytics and machine learning expertise. I am also actively looking to expand my knowledge in cybersecurity and IT advisory to become an expert consultant.
 
@@ -27,7 +27,7 @@ I have strong technical skills in Python, C++, Golang, and frontend technologies
 
 BSc in Computer Engineering
 Kwame Nkrumah University of Science and Technology (KNUST)
-September 2021 - August 2024 
+January 2021 - August 2024 
 
 🚀 Projects & Research
 
